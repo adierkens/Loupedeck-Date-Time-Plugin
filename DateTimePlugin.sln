@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimePlugin", "DateTimePlugin\DateTimePlugin.csproj", "{AED0EE5F-5F0F-4260-A14A-CE62254A54DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED0EE5F-5F0F-4260-A14A-CE62254A54DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED0EE5F-5F0F-4260-A14A-CE62254A54DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED0EE5F-5F0F-4260-A14A-CE62254A54DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED0EE5F-5F0F-4260-A14A-CE62254A54DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5320FC14-FC0E-4002-9757-74159BD4AE8C}
+	EndGlobalSection
+EndGlobal
